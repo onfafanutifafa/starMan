@@ -1,0 +1,6 @@
+django
+django-taggit
+django-shortuuid
+django-jazzmin
+django-crispy-forms
+pillow
